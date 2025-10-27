@@ -1,6 +1,6 @@
 # Voyage Line City Transit Ridership Optimization Dashboard
 
-[![Power BI Dashboard Screenshot](Dashboard.jpg)]
+![Power BI Dashboard Screenshot](Dashboard.jpg)
 *Interactive Power BI Dashboard visualizing ridership trends, route efficiency, and operational insights for urban transit optimization.*
 
 ## Overview
