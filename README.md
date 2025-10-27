@@ -12,8 +12,8 @@ Using a hybrid stack of **Excel** for data cleaning, **Python** for advanced ana
 Ideal for data analysts, transit operators, and urban planners, this dashboard supports filtered explorations by gender and route to drive scheduling, marketing, and policy decisions.
 
 **Project Date:** October 27, 2025  
-**Author:** [Your Name]  
-**Demo:** [Live Power BI Report Link or Embed if Hosted] (e.g., via Power BI Service)
+**Author:** Anubhav verma  
+
 
 ## Features
 
@@ -40,7 +40,6 @@ Ideal for data analysts, transit operators, and urban planners, this dashboard s
 - **Excel**: For initial data handling (Microsoft 365 or compatible).
 - Libraries: Run `pip install pandas matplotlib seaborn numpy` in your environment.
 
-No internet required post-setup; data is self-contained.
 
 ## Installation & Setup
 
@@ -86,10 +85,6 @@ No internet required post-setup; data is self-contained.
 
 For a quick demo, view the embedded screenshot above or the full [portfolio link](bit.ly/VoyageDashboard).
 
-## Screenshots
-
-
-(Add more screenshots in `/screenshots/` as needed.)
 
 ## Key Insights & Recommendations
 
